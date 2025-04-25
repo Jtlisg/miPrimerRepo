@@ -1,7 +1,5 @@
-
-
-
-bin/
-obj/
+#carpetas c#
+**/bin/
+**/obj/
 
 #solo agregue esto para ver si se coloca en mi penultimo commit
